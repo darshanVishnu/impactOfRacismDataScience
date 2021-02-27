@@ -1,5 +1,9 @@
-# impactOfRacismDataScinece-
-
+# project-1-2-implementation-team-das
+project-1-2-implementation-team-das created by GitHub Classroom
+Team Members:
+Shashank
+Darshan
+Aravind
 
 <br>
 Twitter Sample  stream collection flow
