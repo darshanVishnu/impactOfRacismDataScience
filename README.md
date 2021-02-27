@@ -1,4 +1,4 @@
-# impactOfRacismDataScinece-
+# impactOfRacismDataScience-
 
 
 <br>
